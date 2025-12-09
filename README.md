@@ -4,6 +4,14 @@
 
 ![Dernier commit](https://img.shields.io/github/last-commit/Adam-Blf/pin-collector-main?style=flat&logo=git&logoColor=white&color=0080ff&label=Dernier%20commit) ![Langage principal](https://img.shields.io/github/languages/top/Adam-Blf/pin-collector-main?style=flat&logo=git&logoColor=white&color=0080ff&label=Langage%20principal) ![Nombre de langages](https://img.shields.io/github/languages/count/Adam-Blf/pin-collector-main?style=flat&logo=git&logoColor=white&color=0080ff&label=Nombre%20de%20langages)
 
+## 📝 Description
+Version principale du gestionnaire de collection de pins.
+
+## ⚡ Fonctionnalités
+- Gestion de collection
+- Interface Streamlit
+
+
 ### Construit avec les outils et technologies : 
 
 
